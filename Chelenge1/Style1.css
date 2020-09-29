@@ -1,0 +1,121 @@
+.body{
+	width: h0%;
+	height: 70%;
+	padding: 100px;
+}
+
+
+/*Header*/
+.judul{
+    border: 2px solid;
+	padding: 20px;
+	background:rgb(112, 89, 89);
+	text-align: center;
+    color: white;
+    border:3px solid grey ;
+    font-size: 20px;
+    font-weight: 50px;
+    font-style: italic;
+    font-feature-settings: "akhn";
+    
+}
+
+/*menu*/
+.menu ul li{
+	float:right;
+	list-style-type:none;
+	padding:10px;
+}
+
+/*search*/
+.search {
+	float: right;
+	width: 100%;
+	height: 40px;
+	border:3px solid grey ;
+	text-align:right;
+}
+ .bersih{
+	clear:both;
+}
+.isi{
+	height:50px;
+	width: 100%;
+	
+	
+}
+
+/*tab*/
+.isi .tab{
+    background:rgb(112, 89, 89);
+    color: white;
+	float:left;
+	text-align: center;
+	width:25%;
+	height: 360px;
+	margin-top: 20px;
+    border: 2px solid;
+    border:3px solid grey ;
+   
+	
+}
+.isi .tab .KONTAK{
+	width: 52%;
+	margin-top:30px;
+	margin-left: 75px;
+	margin-bottom: 15px;
+	text-align:center;
+	border:3px solid grey ;
+}
+.isi .tab .TELEPON{
+	width: 52%;
+	margin-top:30px;
+	margin-left: 75px;
+	margin-bottom: 15px;
+	border:3px solid grey ;
+	text-align:center;
+}
+.isi .tab .LOGIN{
+	width: 52%;
+	margin-top:30px;
+	margin-left: 75px;
+	margin-bottom: 15px;
+	border:3px solid grey ;
+	text-align: center;
+}
+.isi .tab .KATEGORI{
+	width: 52%;
+	margin-top:30px;
+	margin-left: 75px;
+	margin-bottom: 15px;
+	border:3px solid grey ;
+	text-align:center;
+	padding-bottom:5px;
+}	
+.isi .barang{
+    background:rgb(112, 89, 89);
+    color: white;
+	float: right;
+	text-align: center;
+	width:70%;
+	height:360px;
+	border: 2px solid;
+	margin-top: 20px;
+	margin-bottom:10px;
+    margin-right: 15px;
+    border:3px solid grey ;
+}
+.penutup{
+	padding: 5px;
+	border: 1px solid;
+	width: 99%;
+	text-align: center;
+    background:rgb(112, 89, 89);
+    color: white;
+    margin-top:60px;
+    border:3px solid grey ;
+    font-size: 20px;
+    font-weight: 50px;
+    font-style: italic;
+    font-feature-settings: "akhn";
+} 
